@@ -1,0 +1,3 @@
+﻿  Midterm_Report.cpp
+c:\users\asus\documents\vcu_courses\egre 531\midterm_report\midterm_report\midterm_report\midterm_report.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Midterm_Report.vcxproj -> C:\Users\ASUS\Documents\VCU_Courses\EGRE 531\Midterm_Report\Midterm_Report\Debug\Midterm_Report.exe

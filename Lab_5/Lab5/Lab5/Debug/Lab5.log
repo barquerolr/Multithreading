@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+c:\users\asus\documents\vcu_courses\egre 531\lab_5\lab5\lab5\lab5.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\documents\vcu_courses\egre 531\lab_5\lab5\lab5\lab5.cpp(14): warning C4101: 'subtraction': unreferenced local variable
+  Lab5.vcxproj -> C:\Users\ASUS\Documents\VCU_Courses\EGRE 531\Lab_5\Lab5\Debug\Lab5.exe
